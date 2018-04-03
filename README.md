@@ -13,7 +13,7 @@
 Dongeng Jarkom 2018 bagian 2<br>
 <p>2 tahun setelah Nanda jatuh hati kepada Ridho, PT Cinta Abadi Jaya menjadi salah satu perusahaan terbesar di negaranya. Namun menurut Nanda yang selaku CEO dari perusahaan tersebut, infrastruktur jaringannya perlu dibangun ulang. Sebagai seorang pria, Ridho pun ingin menunjukkan kesetiaannya terhadap Nanda dan membantunya. Namun dimulai dari topologi jaringan yang sederhana dulu, seperti topologi berikut :</p>
 
-![Topologi](/images/001.png)<br>
+![Topologi](/images/001.PNG)<br>
 
 <p>**GUBENG** sebagai router, **KUPANG** sebagai proxy server, WIYUNG sebagai DNS server, dan UML lainnya sebagai client. Awalnya mereka mengkonfigurasi IP pada setiap perangkat yang terdapat pada perusahaan PT. Cinta Abadi Jaya dengan ketentuan sebagai berikut : </p>
 
