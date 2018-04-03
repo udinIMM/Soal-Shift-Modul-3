@@ -6,3 +6,4 @@
 ## SOAL
 Dongeng Jarkom 2018 bagian 2<br>
 <p>2 tahun setelah Nanda jatuh hati kepada Ridho, PT Cinta Abadi Jaya menjadi salah satu perusahaan terbesar di negaranya. Namun menurut Nanda yang selaku CEO dari perusahaan tersebut, infrastruktur jaringannya perlu dibangun ulang. Dengan menggunakan topologi jaringan yang sederhana terlebih dahulu, seperti topologi berikut :</p>
+![Topologi](/images/001.PNG)
