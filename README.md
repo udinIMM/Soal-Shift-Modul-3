@@ -39,3 +39,5 @@ Dongeng Jarkom 2018 bagian 2<br>
 
 ## KETERANGAN
 - **xxx** adalah nama kelompok masing-masing. Misal : **a01**.
+
+### Sekian cerita dongeng Jarkom 2018 dan selamat mengerjakan
