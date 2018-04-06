@@ -19,15 +19,15 @@ Dongeng Jarkom 2018 bagian 2<br>
 <p><b>GUBENG</b> sebagai router, <b>KUPANG</b> sebagai proxy server, <b>WIYUNG</b> sebagai DNS server, dan UML lainnya sebagai client. Awalnya mereka mengkonfigurasi IP pada setiap perangkat yang terdapat pada perusahaan PT. Cinta Abadi Jaya dengan ketentuan sebagai berikut : </p>
 
 1. (1)Konfigurasi **subnet 1** dengan range 192.168.0.2 s.d. 192.168.0.100 dengan netmask 255.255.255.0<br>
-2. (2)Konfigurasi **subnet 2** dengan range 192.168.1.101 s.d. 192.168.1.105 **ATAU** 192.168.1.201 s.d. 192.168.1.205 dengan netmask 255.255.255.0<br>
+2. (2)Konfigurasi **subnet 2** dengan range 192.168.1.101 s.d. 192.168.1.105 **DAN** 192.168.1.201 s.d. 192.168.1.205 dengan netmask 255.255.255.0<br>
 3. (3)Konfigurasi agar **JAGIR** selalu mendapatkan IP 192.168.0.88 **TANPA** melakukan konfigurasi IP statis.<br>
 4. (4)Konfigurasi agar **PAKIS** selalu mendapatkan IP 192.168.1.204 **TANPA** melakukan konfigurasi IP statis.<br>
 5. (5)Konfigurasi agar **subnet 1** dan **subnet 2** mendapatkan konfigurasi DNS 202.46.129.2 dan 10.151.36.7<br>
 
 <p>Setelah mengamati kinerja karyawan-karyawan barunya, ternyata ada saja karyawan yang terlalu asik internetan sehingga lupa waktu. Ridho dan Nanda membuat kebijakan baru untuk membatasi akses internet para karyawannya dengan cara membangun sebuah proxy server. Dengan pembatasan akses proxy seperti berikut :</p>
 
-1. (6)Komputer - komputer yang terdapat pada **subnet 1** tidak dapat mengakses internet pada pukul **18.00 - 22.00**.<br>
-2. (7)Komputer - komputer yang terdapat pada **subnet 2** hanya bisa mengakses internet dengan kecepatan akses 16 KBps pada hari **Senin - Jumat** pukul **18.00 - 22.00**.<br>
+1. (6)Komputer - komputer yang terdapat pada **subnet 1** tidak dapat mengakses internet pada pukul **18.00 - 02.00 (esok harinya)**.<br>
+2. (7)Komputer - komputer yang terdapat pada **subnet 2** hanya bisa mengakses internet dengan kecepatan akses 16 KBps pada hari **Senin - Jumat** pukul **18.00 - 22.00 (esok harinya)**.<br>
 
 <p>Nanda merasa tidak nyaman dengan <i>search engine</i> yang bernama duckduckgo, karena dia merasa terlalu membingungkan jika harus mencari sesuatu disana. Ridho pun peka terhadap perasaan Nanda. (8)Akhirnya Ridho pun mengatur kalau ada karyawan yang mengakses halaman duckduckgo.com, akan langsung mengarah ke halaman google.com.</p>
 
