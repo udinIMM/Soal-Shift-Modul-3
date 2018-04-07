@@ -39,5 +39,6 @@ Dongeng Jarkom 2018 bagian 2<br>
 
 ## KETERANGAN
 - **xxx** adalah nama kelompok masing-masing. Misal : **a01**.
+- Disarankan menginstall **lynx** atau **links** pada **subnet 1** dan **subnet 2** untuk uji coba mengakses web.
 
 ### Sekian cerita dongeng Jarkom 2018 dan selamat mengerjakan
