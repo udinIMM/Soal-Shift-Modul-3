@@ -1,6 +1,6 @@
 # SOAL SHIFT MODUL 3
 ## PERATURAN
-1. Waktu pengerjaan dari soal keluar, hingga hari Sabtu tanggal 11 April 2018 pukul 22.00 WIB.<br>
+1. Waktu pengerjaan dari soal keluar, hingga hari Rabu, 11 April 2018 pukul 22.00 WIB.<br>
 2. **TIDAK DIPERBOLEHKAN BERTANYA KONFIGURASI KEPADA ASISTEN**. Jadikan google sebagai teman kalian.<br>
 2. Jika tidak ada pemberitahuan revisi soal dari asisten, berarti semua soal **BERSIFAT BENAR** dan **DAPAT DIKERJAKAN**.<br>
 3. Default memory 96M kecuali memory untuk GUBENG, KUPANG & WIYUNG sebesar 128M.<br>
